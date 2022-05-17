@@ -21,6 +21,7 @@ import {
   Td,
   TableContainer,
   useToast,
+  // za odooo yrusu ehleyeee bolohoo bailaa
 } from "@chakra-ui/react";
 import React from "react";
 import { Layout } from "../components/Layout";
